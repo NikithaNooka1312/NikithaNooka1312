@@ -54,7 +54,8 @@
 - 🧠 Thyroid Cancer Prediction
 - 📈 Sales & Customer Performance Dashboard (Tableau)
 - 🛒 eCommerce SQL Database Project
-
+  
+> 📂 View all Projects/My Work on my LinkedIn profile.
 ---
 
 ## 📜 Certifications
